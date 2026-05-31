@@ -14,9 +14,10 @@ I build scalable, responsible intelligent systems using <b>Generative AI</b>, <b
 <h2> About Me</h2>
 
 <ul>
-  <li> <b>Deep Learning:</b> Optimizing ANNs, CNNs, and Autoencoders.</li>
+  <li> <b>Machine Learning:</b> Designing end-to-end data pipelines, exploratory data analysis (EDA), and predictive modeling engines.</li>
+  <li><b>Deep Learning:</b> Optimizing ANNs, CNNs, and Autoencoders.</li>
   <li> <b>Generative AI & RAG:</b> Architecting context-aware LLM agents via LangChain.</li>
-  <li> <b>Prompt Engineering:</b> Advanced prompt architectures to eliminate hallucinations.</li>
+  <li><b>Prompt Engineering:</b> Advanced prompt architectures to eliminate hallucinations.</li>
   <li> <b>Responsible AI:</b> Committed to data privacy and mitigation of bias.</li>
 </ul>
 
