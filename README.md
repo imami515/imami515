@@ -149,3 +149,10 @@ fairness, and transparency.
 </ul>
 
 <p><i>Let's build responsible, secure, and intelligent AI solutions together!</i></p>
+<hr>
+
+<h2>GitHub Contribution Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imami515&theme=tokyonight&hide_border=true" alt="Hussain's GitHub Streak" />
+</div>
