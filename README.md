@@ -77,7 +77,7 @@ I build scalable, responsible intelligent systems using <b>Generative AI</b>, <b
 <h2>📊GitHub Contribution Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imami515&theme=tokyonight&hide_border=true&token=ghp_FyzN8WAEFV9axe3OOBMUAPOzKZde7527VLh6" alt="Hussain's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imami515&theme=tokyonight&hide_border=true&token=ghp_FyzN8WAEFV9axe3OOBMUAPOzKZde7527VLh6&date_format=j%20M%20[Y]" alt="Hussain's GitHub Streak" />
 </div>
 
 <hr>
