@@ -1,107 +1,168 @@
-<h1>👋 Hi, I'm Hussain Imami</h1>
-
-<h3>
- AI/ML Enthusiast | RAG Pipeline Developer | Generative AI & LLM Learner |
-Python • Machine Learning • LangChain • Deep Learning
-</h3>
-
-<p>
-I build scalable, responsible intelligent systems using <b>Generative AI</b>, <b>Deep Learning</b>, and <b>Machine Learning</b> with strict <b>Ethical AI</b> standards.
-</p>
-
-<hr>
-
-<h2> About Me</h2>
-
-<ul>
-  <li> <b>Machine Learning:</b> Designing end-to-end data pipelines, exploratory data analysis (EDA), and predictive modeling engines.</li>
-  <li><b>Deep Learning:</b> Optimizing ANNs, CNNs, and Autoencoders.</li>
-  <li> <b>Generative AI & RAG:</b> Architecting context-aware LLM agents via LangChain.</li>
-  <li><b>Prompt Engineering:</b> Advanced prompt architectures to eliminate hallucinations.</li>
-  <li> <b>Responsible AI:</b> Committed to data privacy and mitigation of bias.</li>
-</ul>
-
-<hr>
-
-<h2> My Tech Stack & Tools</h2>
-
-<ul>
-  <li><b>Core & Frameworks:</b> Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, LangChain</li>
-  <li><b>Vector Databases:</b> ChromaDB, Pinecone, FAISS</li>
-  <li><b>Environments:</b> VS Code, Google Colab, Jupyter Notebook, Git, GitHub</li>
-</ul>
-
-<hr>
-
-<h2> Featured Projects</h2>
-
-<h3> Generative AI & RAG Pipelines</h3>
-<div>
-  <h4> Document GPT (RAG Pipeline Chatbot)</h4>
-  <p>Context-aware QA chatbot using LangChain and Vector DBs to guarantee hallucination-free retrieval.</p>
-  <b>Code Link:</b> <a href="https://github.com/imami515/YOUR_RAG_REPO_NAME" target="_blank">View Repository</a>
-</div>
-
-<br>
-
-<h3>Deep Learning & Computer Vision</h3>
-<div>
-  <h4>MNIST Handwritten Digit Suite</h4>
-  <p>Benchmarked ANN, CNN, and Autoencoder architectures for handwritten digit recognition.</p>
-   <b>Code Link:</b> <a href="https://github.com/imami515/Handwritten-Digit-Recognition-using-CNN" target="_blank">View Repository</a>
-</div>
-
-<br>
-
-<h3>Machine Learning Pipeline Engines</h3>
-<div style="padding: 6px; border-left: 3px solid #3776ab; margin-bottom: 10px; font-style: italic; font-size: 12px;">
-  <b> Core Pipeline Lifecycle:</b> Data Cleaning, EDA for skewness, 0.3 Correlation Thresholding, and <code>StandardScaler</code> normalization applied to both projects below.
-</div>
-
-<div>
-  <h4> House Pricing Predictor (Regression Engine)</h4>
-  <p>End-to-end mathematical regression pipeline engineered using PyTorch to forecast market values.</p>
-   <b>Code Link:</b> <a href="https://github.com/imami515/YOUR_HOUSE_PRICING_REPO" target="_blank">View Repository</a>
-</div>
-
-<br>
-
-<div>
-  <h4> Titanic Survival Prediction (Classification Engine)</h4>
-  <p>Robust classification pipeline featuring scientific model benchmarking across 3 distinct ML models.</p>
-   <b>Code Link:</b> <a href="https://github.com/imami515/YOUR_TITANIC_REPO" target="_blank">View Repository</a>
-</div>
-
-<hr>
-
-<h2>📊GitHub Contribution Stats</h2>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imami515&theme=tokyonight&hide_border=true&token=ghp_FyzN8WAEFV9axe3OOBMUAPOzKZde7527VLh6&date_format=j%20M%20[Y]" alt="Hussain's GitHub Streak" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2342&height=200&section=header&text=Hussain%20Imami&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20%7C%20RAG%20Pipeline%20%7C%20Deep%20Learning&descAlignY=55&descColor=BDD7EE" />
+
+<h3> 18-year-old self-taught AI developer from Karachi, Pakistan</h3>
+<h4>Building production-style AI systems before finishing college</h4>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainimami)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imamihussain@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imami515)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=imami515&color=1B6CA8&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-<hr>
+---
 
-<h2> Languages & Tools Badges</h2>
+##  About Me
+
+```python
+hussain = {
+    "age":         18,
+    "location":    "Karachi, Pakistan 🇵🇰",
+    "origin":      "Gilgit-Baltistan",
+    "role":        "AI/ML Intern Candidate",
+    "stack":       ["LangChain", "Gemini API", "TensorFlow", "Scikit-learn", "Streamlit"],
+    "certs":       ["IBM Data Analysis with Python", "IBM Deep Learning with TensorFlow"],
+    "goal":        "Remote AI/ML Internship → Build my own AI startup",
+    "available":   True
+}
+```
+
+---
+
+##  Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-<hr>
+---
 
-<h2>🤝 Connect with Me</h2>
+##  Featured Projects
 
-<ul>
-  <li> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hussainimami" target="_blank">linkedin.com/in/hussainimami</a></li>
-  <li> <b>GitHub:</b> <a href="https://github.com/imami515" target="_blank">github.com/imami515</a></li>
-  <li> <b>Email:</b> <a href="mailto:imamihussain450@gmail.com">imamihussain450@gmail.com</a></li>
-</ul>
+<table>
+<tr>
+<td width="50%">
 
-<p><i>Let's build responsible, secure, and intelligent AI solutions together!</i></p>
+###  Document Q&A Chatbot
+**Full RAG Pipeline from scratch**
+
+- LangChain + Google Gemini API
+- HuggingFace Embeddings
+- Streamlit UI + Chat Memory
+- PDF ingestion → Answer generation
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imami515/document-qa-chatbot)
+
+</td>
+<td width="50%">
+
+###  MNIST Deep Learning Suite
+**ANN · CNN · Autoencoder**
+
+- TensorFlow + Keras
+- ANN: **94.0% accuracy**
+- 3 architectures benchmarked
+- Unified preprocessing pipeline
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imami515/Handwritten-Digit-Recognition-using-CNN)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+###  House Price Predictor
+**Advanced Regression Ensemble**
+
+- Scikit-learn Ensemble Methods
+- R²: **89.67%** | RMSE: $26,400
+- Linear → RF → Gradient Boosting
+- Full EDA + Feature Engineering
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imami515/YOUR_HOUSE_REPO)
+
+</td>
+<td width="50%">
+
+###  Titanic Classifier
+**Classification Benchmarking Engine**
+
+- Scikit-learn + Pandas
+- Gradient Boosting: **85.47%**
+- 3-model scientific benchmarking
+- Confusion matrix evaluation
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imami515/YOUR_TITANIC_REPO)
+
+</td>
+</tr>
+</table>
+
+---
+
+##  Certifications
+
+<table>
+<tr>
+<td> <b>Data Analysis with Python</b></td>
+<td>IBM / Cognitive Class</td>
+<td>April 2026</td>
+</tr>
+<tr>
+<td> <b>Deep Learning with TensorFlow</b></td>
+<td>IBM / Cognitive Class</td>
+<td>June 2026</td>
+</tr>
+</table>
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=imami515&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imami515&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imami515&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+---
+
+##  Currently
+
+-  Completing Intermediate CS exams
+-  Pursuing more AI/ML certifications
+- **Actively seeking Remote AI/ML Internship**
+- Building more AI projects
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2342&height=100&section=footer"/>
+
+<i>"Not waiting to finish college to start building — building now, one project at a time." 🚀</i>
+
+</div>
